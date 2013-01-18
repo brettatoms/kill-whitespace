@@ -1,3 +1,5 @@
 [
-	{ "keys": ["ctrl+c", "w"], "command": "kill_whitespace"}
+	{ "keys": ["ctrl+c", "w"], "command": "kill_forward_whitespace"}
+    //{ "keys": ["ctrl+c", "w"], "command": "kill_whitespace"}
+    //{ "keys": ["ctrl+c", "w"], "command": "kill_backward_whitespace"}
 ]
